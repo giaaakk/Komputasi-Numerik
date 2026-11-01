@@ -1,0 +1,173 @@
+PROMPT AI - Komputasi Numerik
+Nama : Gia Arti Dinanti
+NIM  : 202511420049
+AI yang digunakan : Claude (Anthropic)
+
+Keterangan:
+Tugas Komputasi Numerik ini saya kerjakan menggunakan 2 obrolan (chat)
+terpisah dengan Claude. Prompt dari kedua obrolan dicatat di bawah ini,
+dipisahkan per obrolan.
+
+
+########################################
+OBROLAN 1
+########################################
+
+=== PERSIAPAN DAN PANDUAN UMUM ===
+
+Prompt 1:
+"halo aku adalah mahasiswa semester 3. pada matakuliah komputasi numerik
+saya mendapatkan tugas sebagai berikut. [teks lengkap tugas poin 1-13
+beserta catatan tentang kemiripan dan batas pengumpulan] ... berikan saya
+langkah langkah untuk mengerjakannya per poin biar tidak bingung"
+
+Prompt 2:
+"bikin link_akun.txt gimana"
+
+Prompt 3:
+"upload file link aku dimana"
+(disertai tangkapan layar halaman upload GitHub)
+
+=== POIN 5: ALGORITMA SPL ===
+
+Prompt 4:
+"poin 5 itu gimana"
+
+Prompt 5:
+"[link notebook Colab], saya sudah membuat pythonnya digoogle colab,
+lalu algoritmanya bagaimana"
+
+Prompt 6:
+[menempelkan cell pertama kode Python: import numpy, EPS, dan fungsi
+tampilkan_matriks]
+
+Prompt 7:
+"salah"
+
+Prompt 8:
+[menempelkan seluruh kode Python: eliminasi_maju, selesaikan_spl,
+contoh SPL, verifikasi, dan input manual]
+
+=== GITHUB DAN POIN 8 ===
+
+Prompt 9:
+"apakah cara penguploadan di github sama dengan yang link akun?"
+
+Prompt 10:
+[tangkapan layar daftar file repository, tanpa teks]
+
+Prompt 11:
+[tangkapan layar jendela commit README, tanpa teks]
+
+Prompt 12:
+[tangkapan layar repository setelah README dibuat, tanpa teks]
+
+Prompt 13:
+"poin nomor 8 itu bagaimana"
+
+Prompt 14:
+"berikan jawaban apa saja yang saya prompt pada tugas ini tadi"
+
+
+########################################
+OBROLAN 2
+########################################
+
+=== KODE PYTHON DAN PENJELASAN SPL ===
+
+Prompt 15:
+"buatkan sourcode untuk tugas yang ada dipapan, kemudian pisahkan per sel
+karena akan diketik di google colab"
+(disertai foto papan tulis berisi tugas "Algoritma solusi SPL")
+
+Prompt 16:
+"berikan penjelasannya setiap sel"
+
+Prompt 17:
+"berikan jawaban ulang setelah source code nya langsung penjelasannya"
+
+Prompt 18:
+"berikan penjelasan tentang codingnya"
+
+Prompt 19:
+"penjelasan program pada poin ke 5 berikan dalam bentuk kalimat saja
+(non tabel)"
+
+Prompt 20:
+"nomor 6 juga"
+
+=== PANDUAN TUGAS ===
+
+Prompt 21:
+"halo aku adalah mahasiswa semester 3. pada matakuliah komputasi numerik
+saya mendapatkan tugas sebagai berikut. [teks lengkap tugas poin 1-13
+beserta catatan tentang kemiripan dan batas pengumpulan] ... berikan saya
+langkah langkah untuk mengerjakannya per poin biar tidak bingung"
+
+=== BISECTION ===
+
+Prompt 22:
+"bisection itu apa"
+
+Prompt 23:
+"apakah bisection ini diperlukan?"
+
+Prompt 24:
+"boleh"
+(menyetujui tawaran dibuatkan kode Python Bisection per sel)
+
+Prompt 25:
+"tetapi saya sudah menggunakan code yang paling atas sendiri, apakah
+berbeda?"
+
+=== MERAPIKAN REPOSITORY GITHUB ===
+
+Prompt 26:
+"itu yang sudah saya buat, cuma menurut saya kurang rapih untuk folder nya"
+(disertai tangkapan layar repository)
+
+Prompt 27:
+[tangkapan layar menu titik tiga file SPL_Gauss.ipynb, tanpa teks]
+
+Prompt 28:
+[tangkapan layar tampilan Code dengan menu "In place", tanpa teks]
+
+Prompt 29:
+[tangkapan layar editor nama file dengan folder SPL-Gauss, tanpa teks]
+
+Prompt 30:
+[tangkapan layar isi folder SPL-Gauss setelah dipindah, tanpa teks]
+
+Prompt 31:
+[tangkapan layar halaman utama repository, tanpa teks]
+
+Prompt 32:
+[tangkapan layar folder SPL-Gauss berisi tiga file, tanpa teks]
+
+Prompt 33:
+[tangkapan layar isi file Link Akun.txt, tanpa teks]
+
+Prompt 34:
+"bagaimana cara membagikan link github"
+
+Prompt 35:
+"erbaiki badge Open in Colab di notebook (link lama sudah tidak valid
+setelah dipindah). itu gimana"
+
+Prompt 36:
+"lanjut ke readme aja"
+
+Prompt 37:
+"sudah"
+
+=== PROMPT TERAKHIR ===
+
+Prompt 38:
+"berikan apa saja prompt yang saya pakai, saya menggunakan 2 chat
+(termasuk chat yang ini)..."
+
+
+########################################
+BISECTION - OBROLAN 1
+########################################
+(diisi nanti)
