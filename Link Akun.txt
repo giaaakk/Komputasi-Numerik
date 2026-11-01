@@ -3,7 +3,7 @@ NIM : 202511420049
 
 #Link Akun 
 
-Google Colab	: https://colab.research.google.com/drive/1G55MZLPiV8BSu3AhkH0w_M_Hu0mtM4Rt
+Google Colab	: https://colab.research.google.com/drive/1pMNULb7L8z5R3U5VzC9lXYsAj1B2tqiE?usp=sharing
 
 Github		: giaaakk https://share.google/niO5cP67FA4YL7l4c
 
