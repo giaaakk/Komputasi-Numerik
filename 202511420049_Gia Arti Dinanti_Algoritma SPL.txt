@@ -1,0 +1,72 @@
+ALGORITMA PENYELESAIAN SPL DENGAN ELIMINASI GAUSS
+(Partial Pivoting dan Substitusi Mundur)
+
+Nama : Gia Arti Dinanti
+NIM  : 202511420049
+
+SPL yang digunakan sebagai contoh:
+  2x +  y -  z =   8
+ -3x -  y + 2z = -11
+ -2x +  y + 2z =  -3
+
+LANGKAH-LANGKAH
+
+1. MULAI
+
+2. PERSIAPAN
+   a. Muat pustaka NumPy untuk operasi matriks.
+   b. Tetapkan toleransi EPS = 10^-9. Angka yang nilai mutlaknya
+      lebih kecil dari EPS dianggap nol.
+   c. Siapkan prosedur untuk mencetak matriks augmented [A | b]
+      agar setiap tahap perhitungan bisa diamati.
+
+3. INPUT
+   Masukkan matriks koefisien A dan vektor konstanta b
+   (bisa ditulis langsung di kode atau diketik lewat input).
+
+4. BENTUK MATRIKS AUGMENTED
+   Gabungkan A dan b menjadi satu matriks M = [A | b].
+   Set baris = 1 dan daftar kolom_pivot = kosong.
+
+5. ELIMINASI MAJU
+   Untuk setiap kolom dari kolom pertama sampai terakhir:
+   a. Jika semua baris sudah terpakai sebagai pivot, hentikan.
+   b. Cari elemen dengan nilai mutlak terbesar pada kolom tersebut,
+      mulai dari baris aktif ke bawah (partial pivoting).
+   c. Jika elemen terbesar tadi < EPS, kolom ini tidak punya pivot
+      (calon variabel bebas). Lanjut ke kolom berikutnya.
+   d. Jika posisi elemen terbesar bukan di baris aktif, tukar kedua
+      baris tersebut.
+   e. Untuk setiap baris di bawah baris aktif:
+        faktor = elemen kolom ini di baris itu / elemen pivot
+        baris itu = baris itu - faktor x baris pivot
+      sehingga elemen di bawah pivot menjadi 0.
+   f. Catat kolom ini sebagai kolom pivot, lalu geser baris aktif
+      satu baris ke bawah.
+
+6. HITUNG RANK
+   rank = jumlah kolom pivot yang tercatat.
+
+7. CEK KONSISTENSI
+   Jika ada baris dengan semua koefisien = 0 tetapi konstanta
+   tidak nol, tampilkan "SPL TIDAK MEMILIKI SOLUSI", lalu ke
+   langkah 10.
+
+8. CEK JENIS SOLUSI
+   Jika rank < jumlah variabel, tampilkan "SPL MEMILIKI SOLUSI TAK
+   HINGGA" beserta variabel bebasnya (kolom tanpa pivot),
+   lalu ke langkah 10.
+
+9. SUBSTITUSI MUNDUR (rank = jumlah variabel, solusi tunggal)
+   Untuk baris dari paling bawah ke paling atas:
+   a. Ambil kolom pivot baris tersebut.
+   b. Hitung variabel = (konstanta - jumlah koefisien lain x nilai
+      variabel yang sudah diketahui) / elemen pivot.
+   Tampilkan x1, x2, x3, ... sebagai solusi.
+
+10. VERIFIKASI
+    a. Hitung A x solusi, bandingkan dengan b.
+    b. Bandingkan solusi dengan hasil numpy.linalg.solve.
+    c. Jika keduanya cocok, perhitungan benar.
+
+11. SELESAI
