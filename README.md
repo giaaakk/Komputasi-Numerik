@@ -14,7 +14,6 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 | No | Materi | Status | Folder |
 |----|--------|--------|--------|
 | 1 | Sistem Persamaan Linear (Metode Gauss) | Dalam pengerjaan | [SPL-Gauss](SPL-Gauss/) |
-| 2 | Persamaan Non-Linear (Metode Bisection) | Belum dimulai | - |
 
 ## Isi Repository
 
