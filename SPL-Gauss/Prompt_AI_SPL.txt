@@ -22,52 +22,38 @@ beserta catatan tentang kemiripan dan batas pengumpulan] ... berikan saya
 langkah langkah untuk mengerjakannya per poin biar tidak bingung"
 
 Prompt 2:
-"bikin link_akun.txt gimana"
-
-Prompt 3:
 "upload file link aku dimana"
 (disertai tangkapan layar halaman upload GitHub)
 
 === POIN 5: ALGORITMA SPL ===
 
-Prompt 4:
+Prompt 3:
 "poin 5 itu gimana"
 
-Prompt 5:
+Prompt 4:
 "[link notebook Colab], saya sudah membuat pythonnya digoogle colab,
 lalu algoritmanya bagaimana"
 
-Prompt 6:
-[menempelkan cell pertama kode Python: import numpy, EPS, dan fungsi
-tampilkan_matriks]
-
-Prompt 7:
-"salah"
-
-Prompt 8:
+Prompt 5:
 [menempelkan seluruh kode Python: eliminasi_maju, selesaikan_spl,
 contoh SPL, verifikasi, dan input manual]
 
 === GITHUB DAN POIN 8 ===
 
-Prompt 9:
+Prompt 6:
 "apakah cara penguploadan di github sama dengan yang link akun?"
 
-Prompt 10:
+Prompt 7:
 [tangkapan layar daftar file repository, tanpa teks]
 
-Prompt 11:
+Prompt 8:
 [tangkapan layar jendela commit README, tanpa teks]
 
-Prompt 12:
+Prompt 9:
 [tangkapan layar repository setelah README dibuat, tanpa teks]
 
-Prompt 13:
+Prompt 10:
 "poin nomor 8 itu bagaimana"
-
-Prompt 14:
-"berikan jawaban apa saja yang saya prompt pada tugas ini tadi"
-
 
 ########################################
 OBROLAN 2
@@ -75,18 +61,18 @@ OBROLAN 2
 
 === KODE PYTHON DAN PENJELASAN SPL ===
 
-Prompt 15:
+Prompt 11:
 "buatkan sourcode untuk tugas yang ada dipapan, kemudian pisahkan per sel
 karena akan diketik di google colab"
 (disertai foto papan tulis berisi tugas "Algoritma solusi SPL")
 
-Prompt 16:
+Prompt 12:
 "berikan penjelasannya setiap sel"
 
-Prompt 17:
+Prompt 13:
 "berikan jawaban ulang setelah source code nya langsung penjelasannya"
 
-Prompt 18:
+Prompt 14:
 "berikan penjelasan tentang codingnya"
 
 Prompt 19:
