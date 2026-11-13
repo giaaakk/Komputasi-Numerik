@@ -17,9 +17,24 @@ OBROLAN 1
 
 Prompt 1:
 "halo aku adalah mahasiswa semester 3. pada matakuliah komputasi numerik
-saya mendapatkan tugas sebagai berikut. [teks lengkap tugas poin 1-13
-beserta catatan tentang kemiripan dan batas pengumpulan] ... berikan saya
-langkah langkah untuk mengerjakannya per poin biar tidak bingung"
+saya mendapatkan tugas sebagai berikut. Tugas :
+
+1 Buat akun Git Hub atas nama Anda sendiri dan buat Repository "Komputasi Numerik" 
+2 Buat akun Google Colaboration Research atas nama Anda sendiri
+3 Buat akun LinkedIn atas nama Anda sendiri 
+4 Simpan Link2 akun2 Anda tersebut pada file .txt dan simpan pada Repository "Komputasi Numerik" di Github
+5 Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel dan simpan pada Repository "Komputasi Numerik" di Github
+6 Buat kode Python pada Google Colab berdasarkan nomor 5, dan simpan pada Repository "Komputasi Numerik" di Github. Pastikan kode tertata dalam cell-cell sehingga bisa di Running pada tiap cell.
+7 Edit kode Python tersebut di Github dengan menambahkan keterangan detail penjelasan tiap baris kode atau cell.
+8 Nomor 5-7 Anda bisa meminta bantuan platform AI andalan masing2
+9 Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt dan simpan pada Repository "Komputasi Numerik" di Github
+10 Buat video penjelasan no. 5-8 dengan total durasi maksimal 5 menit : dengan wajah dan suara Anda sedang berbicara menjelaskan selama minimal 15 detik, sisanya gambar slide layar dan tampilan kode di Google Colab + suara penjelasan Anda tanpa menampilkan wajah.
+11 Simpan video dalam bentuk .mp4 dan simpan pada Repository "Komputasi Numerik" di Github
+12 Buat langkah yang sama mulai no.5-10 untuk Penyelesaian Sistem Persamaan Non Linear metode Bisection
+13 Simpan link Repository "Komputasi Numerik" di Github Anda pada akun LnkedIn Anda sebagai portofolio
+—— Hindari kemiripan/copy-paste pada semua dokumen Algoritma, kode, maupun prompt AI. Kemiripan 80% akan menyebabkan mahasiswa/i masing2 akan mendapat nilai minimal. Jadi sering2lah mengupdate pada repository Github untuk menghindari kemiripan karena akan mudah terdeteksi.
+Tugas maksimal dikumpulkan pada H-1 UTS pada link google form yang akan diberikan nanti H-7 sebelum UTS.
+Berikan saya langkah langkah untuk mengerjakannya per poin biar tidak bingung"
 
 Prompt 2:
 "upload file link aku dimana"
@@ -75,16 +90,16 @@ Prompt 13:
 Prompt 14:
 "berikan penjelasan tentang codingnya"
 
-Prompt 19:
+Prompt 15:
 "penjelasan program pada poin ke 5 berikan dalam bentuk kalimat saja
 (non tabel)"
 
-Prompt 20:
+Prompt 16:
 "nomor 6 juga"
 
 === PANDUAN TUGAS ===
 
-Prompt 21:
+Prompt 17:
 "halo aku adalah mahasiswa semester 3. pada matakuliah komputasi numerik
 saya mendapatkan tugas sebagai berikut. [teks lengkap tugas poin 1-13
 beserta catatan tentang kemiripan dan batas pengumpulan] ... berikan saya
