@@ -24,4 +24,4 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 
 - GitHub : https://github.com/giaaakk
 - LinkedIn : https://www.linkedin.com/in/gia-arti-dinanti-902a9136b
-- Google Colab
+- Google Colab :  https://colab.research.google.com/drive/1pMNULb7L8z5R3U5VzC9lXYsAj1B2tqiE?usp=sharing
