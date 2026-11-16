@@ -13,7 +13,7 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 
 | No | Materi | Status | Folder |
 |----|--------|--------|--------|
-| 1 | Sistem Persamaan Linear (Metode Gauss) | Dalam pengerjaan | [SPL-Gauss](SPL-Gauss/) |
+| 1 | Sistem Persamaan Linear (Metode Gauss) | Selesai | [SPL-Gauss](SPL-Gauss/) |
 
 ## Isi Repository
 
@@ -24,3 +24,4 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 
 - GitHub : https://github.com/giaaakk
 - LinkedIn : https://www.linkedin.com/in/gia-arti-dinanti-902a9136b
+- Google Colab
