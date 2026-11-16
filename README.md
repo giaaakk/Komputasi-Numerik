@@ -18,7 +18,7 @@ Repository ini berisi tugas mata kuliah Komputasi Numerik.
 ## Isi Repository
 
 - `SPL-Gauss/` : algoritma dan kode Python penyelesaian SPL dengan eliminasi Gauss
-- `Link_Akun.txt` : https://github.com/giaaakk/Komputasi-Numerik
+- `Link_Akun.txt` : tautan akun GitHub, Google Colab, dan LinkedIn
 
 ## Tautan
 
